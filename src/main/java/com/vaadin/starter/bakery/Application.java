@@ -17,6 +17,10 @@ import com.vaadin.starter.bakery.ui.MainView;
 /**
  * Spring boot web application initializer.
  */
+
+/**
+ * ola bom dia	
+ */
 @SpringBootApplication(scanBasePackageClasses = { SecurityConfiguration.class, MainView.class, Application.class,
 		UserService.class }, exclude = ErrorMvcAutoConfiguration.class)
 @EnableJpaRepositories(basePackageClasses = { UserRepository.class })
