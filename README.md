@@ -1,3 +1,9 @@
+# Group's Members:
+
+- Afonso Teixeira, nº 105514
+- Gonçalo Monteiro, nº 123761
+- Guilherme Vinhas, nº 122673
+
 # ⚠️ This starter is not recommended ⚠️
 
 **This starter is not recommended for new Vaadin Flow applications. Instead, visit [start.vaadin.com](https://start.vaadin.com/) to configure and download a Vaadin project that reflects the current best practices.**
